@@ -3,6 +3,7 @@ A data science project focusing on creating a price elasticity model using Tenso
 
 # Installation
 Clone this repo: https://github.com/nugroho1234/price-elasticity
+
 Please take a look at the requirements.txt to see the libraries I use.
 
 # Project Motivation
